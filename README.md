@@ -11,3 +11,6 @@
 #### "<"section">" "<"section">" que vira">" "<"Algo">"<"Algo">"
 ### criando React Router (roteador React)
 #### npm install react-router-dom
+### Opcinal caso queira usar o yarm
+#### npm install --global yarm
+
